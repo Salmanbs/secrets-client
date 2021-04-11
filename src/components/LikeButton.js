@@ -25,7 +25,7 @@ function LikeButton({ user, post: { id, likeCount, likes } }) {
         <Icon name="heart" />
       </Button>
     ) : (
-      <Button color="red">
+      <Button basic color="red">
         <Icon name="heart" />
       </Button>
     )
