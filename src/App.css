@@ -1,0 +1,55 @@
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.form-container {
+  width: 50%;
+  margin: auto;
+}
+
+/* .ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+  background-color: #7933ff;
+}
+
+.ui.button {
+  background: #7933ff !important;
+} */
+
+.ui.pointing.secondary.menu {
+  color: #7933ff;
+}
+
+.ui.secondary.menu{
+  background: white;
+}
+
+.ui.menu .item {
+  color: #7933ff;
+}
+
+.ui.purple.menu .active.item {
+  border-color: #7933ff!important;
+  color: #7933ff!important;
+}
+
+.ui.massive.menu {
+  font-size: 1.5rem;
+}
+.ui.card>.extra, .ui.cards>.card>.extra {
+  position: static !important;
+}
+/*
+.ui.fluid.card {
+  margin: auto;
+  width: 50%;
+  max-width: 9999px;
+}
+
+.ui.card>.content {
+  margin: auto;
+}
+*/
