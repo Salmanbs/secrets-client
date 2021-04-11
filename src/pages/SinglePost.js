@@ -17,7 +17,7 @@ import LikeButton from '../components/LikeButton';
 import DeleteButton from '../components/DeleteButton';
 import MyPopup from '../util/MyPopup';
 
-var randomImage = new Array();  
+var randomImage = [];  
 randomImage[0] = "https://semantic-ui.com/images/avatar2/large/elyse.png"; 
 randomImage[1] = "https://semantic-ui.com/images/avatar2/large/kristy.png";
 randomImage[2] = "https://semantic-ui.com/images/avatar2/large/lena.png";
